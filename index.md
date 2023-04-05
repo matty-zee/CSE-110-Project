@@ -1,5 +1,5 @@
 # Weclome to __Matt Zheng__'s user page
-## [Click here to learn more about me](##Here)
+## [Click here for my top 5 videogames](##Here)
 ## What's my profile picture?
 ![Pun pun](https://i.redd.it/jkc7sr3ia1d61.jpg)\
 This is Pun pun. He is the main character from _Oyasumi Pun Pun_, one of my favorite mangas. 
@@ -13,7 +13,7 @@ This is Pun pun. He is the main character from _Oyasumi Pun Pun_, one of my favo
   - `.insert()`
 - [My favorite cat picture](https://i.pinimg.com/originals/84/cd/28/84cd28bf76d7aeede1584f57828fb3e9.jpg)
 
-## Tier list of single player games I've played
+## Top 5 Single-player games
 1. ___Darkest Dungeon___ - insane replayability, tons of fun mods, satisfying gameplay
 2. ___Synthetik___ - insane replayability, awesome music, EXPLOSIONS!!!
 3. ___Metal Gear Revengeanc___e - memes aside, really fun and satisfying gameplay
