@@ -16,7 +16,7 @@ This is Pun pun. He is the main character from _Oyasumi Pun Pun_, one of my favo
 ## Tier list of single player games I've played
 1. ___Darkest Dungeon___ - insane replayability, tons of fun mods, satisfying gameplay
 2. ___Synthetik___ - insane replayability, awesome music, EXPLOSIONS!!!
-3. ___Metal Gear Revengeanc___e - memes aside, really fun and satisfying gameplay
+3. ___Metal Gear Revengeance___ - memes aside, really fun and satisfying gameplay
 4. ___Dead Space Franchise___ - if it wasn't for DS3, this would be number 3 or 2 on the list 
 5. ___Darkest Dungeon 2___ - in terms of graphics and gameplay mechanics, direct improvement from the first game but there is no progression, lacks a story 
 
