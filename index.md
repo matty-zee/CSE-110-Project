@@ -1,5 +1,7 @@
 # Weclome to __Matt Zheng__'s user page
-## [Click here to learn more about me](##Here)
+
+[Click here for my top 5 favorite videogames](#tier-list-of-single-player-games-ive-played)
+
 ## What's my profile picture?
 ![Pun pun](https://i.redd.it/jkc7sr3ia1d61.jpg)\
 This is Pun pun. He is the main character from _Oyasumi Pun Pun_, one of my favorite mangas. 
