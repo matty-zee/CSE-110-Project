@@ -1,6 +1,6 @@
 # Weclome to __Matt Zheng__'s user page
 
-[Click here for my top 5 favorite videogames](#tier-list-of-single-player-games-ive-played)
+[Click here for my top 5 favorite videogames](#top-5-single-player-games)
 
 ## What's my profile picture?
 ![Pun pun](https://i.redd.it/jkc7sr3ia1d61.jpg)\
