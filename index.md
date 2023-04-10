@@ -13,7 +13,7 @@ This is Pun pun. He is the main character from _Oyasumi Pun Pun_, one of my favo
   -  > I succeed because I fail
 - My favorite thing to type into an IDE
   - `.insert()`
-- [My favorite cat picture](funnytcat.jpg)
+- [My favorite cat picture](funntcat.jpg)
 
 ## Top 5 Single-player games
 1. ___Darkest Dungeon___ - insane replayability, tons of fun mods, satisfying gameplay
